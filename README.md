@@ -3,14 +3,10 @@
 
 A To-Do-List is a list in which we can save the tasks which need to be done by the user. All those tasks are listed down at one place.We used HTML, CSS, javascript language to make it.
 
-**Implementation steps:
+## Implementation steps:
 
 1.Download Vscode or any other code editor.
-
 2.Download the necessary extentions for easy implementation.
-
 3.Write the code in HTML, Css and javascript.
-
 4.Open in Default Browser.
-
 5.Inspect code if any change need to be done.
