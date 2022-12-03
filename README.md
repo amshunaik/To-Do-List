@@ -5,9 +5,8 @@ A To-Do-List is a list in which we can save the tasks which need to be done by t
 
 ## Implementation steps:
 
-1.Download Vscode or any other code editor.
-
-2.Download the necessary extentions for easy implementation.
-3.Write the code in HTML, Css and javascript.
-4.Open in Default Browser.
-5.Inspect code if any change need to be done.
+- Download Vscode or any other code editor.
+- Install the necessary extentions for easy implementation.
+- Write the code in HTML, Css and javascript.
+- Open in Default Browser.
+- Inspect code if any change need to be done in the browser.
