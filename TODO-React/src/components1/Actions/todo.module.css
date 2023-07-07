@@ -1,0 +1,53 @@
+.cover{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bod{
+    text-align: center;
+    align-items: center;
+}
+.done{
+    display: flex;
+}
+.input{
+    font-size: 19px;
+    width: 500px;
+    border: 2px solid black;
+    height: 27px;
+    text-indent: 10px;
+}
+.memory{
+    display: flex;
+    gap: 220px;
+    margin-top: 9px;
+}
+
+.h4{
+    margin: 0px;
+    font-size: 15px;
+    color: brown;
+    box-shadow: 1px 1px 8px #897d7d;
+    border-radius: 16px;
+    padding: 8px;
+
+}
+.but{
+    color: wheat;
+    height: 30px;
+    width: 83px;
+    font-size: 21px;
+    background: blue;
+    margin-left: 7px;
+}
+.ul{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    
+}
+.f1{
+    
+    font-size: 45px;
+
+}

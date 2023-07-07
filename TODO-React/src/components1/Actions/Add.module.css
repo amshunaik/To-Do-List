@@ -1,0 +1,32 @@
+.cov{
+    display: flex;
+    gap: 447px;
+/*width: 500px;*/
+    border: 2px solid black;
+    border-radius: 17px;
+
+}
+.name{
+    font-size: 33px;
+    margin: 0px;
+    text-transform: capitalize;
+    text-indent: 10px;
+}
+.remove{
+    background: yellow;
+    font-size: 18px;
+    border: 2px solid orange;
+    width: 82px;
+    border: 2px solid red;
+    /* margin-right: 12px; */
+    height: 44px;
+
+}
+.list{
+    width: 606px;
+    display: flex;
+    /* border: 2px solid black; */
+    margin-right: 35px;
+    box-shadow: 2px 1px 9px black;
+    border-radius: 6px;
+}
